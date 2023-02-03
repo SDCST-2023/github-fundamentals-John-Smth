@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 Some advice for working with files:
 
 try not to use spaces in names. These are bad.  Note that github uses the - symbol to replace spaces.  Also removing spaces and capitalizing the first letter of each word is an option.  You might want to Google the Markup Language for Github to see how you can format your textfiles and readme.md files.
 #testing 
     ##blah blah
             woof
+=======
+Some advice for working with files:
+
+try not to use spaces in names. These are bad.  Note that github uses the - symbol to replace spaces.  Also removing spaces and capitalizing the first letter of each word is an option.  You might want to Google the Markup Language for Github to see how you can format your textfiles and readme.md files.
+#testing 
+    ##blah blah
+            woof
+>>>>>>> a6ba28b68e51f3bbaeab485f33f8b387a7f81352
